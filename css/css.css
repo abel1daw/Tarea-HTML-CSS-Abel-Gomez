@@ -1,0 +1,40 @@
+#titulo{
+    color: teal;
+}
+
+p strong, a,tfoot,tbody th{
+    color: red;
+}
+
+strong,thead, tbody .especial, .destacado{
+    color: orange;
+}
+
+p .especial{
+    color: purple;
+}
+
+#subtitulo, a em, caption{
+    color: blue;
+}
+
+#adicional a,tbody td{
+    color: green;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 9px;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+}
+
+#adicional{
+    color: olive;
+}
+
+#adicional #especial{
+    color: fuchsia;
+}
